@@ -1,20 +1,20 @@
-﻿### Coming Soon!
+﻿#### Coming Soon!
 
 ## Web Page display
 <p align="center">
-  <img width="800" height=250 src="1.png">
+  <img width="600" height=300 src="1.png">
 </p>
 <p align="justify">
 
 - Home Page
 <p align="center">
-  <img width="800" height=250 src="2.png">
+  <img width="600" height=300 src="2.png">
 </p>
 <p align="justify">
 
 - Protac Database
 <p align="center">
-  <img width="800" height=250 src="3.png">
+  <img width="600" height=300 src="3.png">
 </p>
 <p align="justify">
 
