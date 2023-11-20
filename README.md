@@ -1,13 +1,22 @@
-﻿## Coming Soon:http://vip.52tech.tech/
+﻿### Coming Soon!
 
 ## Web Page display
-![image](https://github.com/wxfsd/ProtacOCR/edit/main/1.png)
+<p align="center">
+  <img width="800" height=250 src="1.png">
+</p>
+<p align="justify">
 
 - Home Page
-![image](https://github.com/wxfsd/ProtacOCR/edit/main/2.png)
+<p align="center">
+  <img width="800" height=250 src="2.png">
+</p>
+<p align="justify">
 
 - Protac Database
-![image](https://github.com/wxfsd/ProtacOCR/edit/main/3.png)
+<p align="center">
+  <img width="800" height=250 src="3.png">
+</p>
+<p align="justify">
 
 
 License
