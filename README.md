@@ -1,13 +1,13 @@
 ﻿## Coming Soon:http://vip.52tech.tech/
 
 ## Web Page display
-![image](https://github.com/xiugangzhang/vip.github.io/blob/master/static/images/preview.gif)
+![image](https://github.com/wxfsd/ProtacOCR/edit/main/1.png)
 
 - Home Page
-![image](https://github.com/xiugangzhang/vip.github.io/blob/master/static/images/preview.jpg)
+![image](https://github.com/wxfsd/ProtacOCR/edit/main/2.png)
 
 - Protac Database
-![image](https://github.com/xiugangzhang/vip.github.io/blob/master/static/images/search.png)
+![image](https://github.com/wxfsd/ProtacOCR/edit/main/3.png)
 
 
 License
